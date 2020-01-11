@@ -40,6 +40,7 @@ while a <= 1000:
             for y in Mylist:
                 print(y,end=' ')#end是不要换行，间隔为一个空格
             print('\n')#\n代表换行
+    #a+1后初始化条件
     a = a+1
     Mylist = []
     flag = False
