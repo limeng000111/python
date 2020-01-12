@@ -15,7 +15,7 @@ def sequence():
     sum1 = reduce(lambda x,y:x+y,l)
     #print('数列的内容为：',l)
    # print('数列的前20项和:',sum1)
-    print('+'.join(str(i) for i in l),end='\n')
+    print('+'.join(str(i) for i in l),end='\n')#学会使用.join的用法
 
     print('=%.2f'%s)
 sequence()
