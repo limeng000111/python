@@ -12,7 +12,7 @@ def sequence():
         s += (a/b)
         l.append('%s/%s'%(a,b))
         a , b = a+b , a
-    sum1 = reduce(lambda x,y:x+y,l)
+  #  sum1 = int(reduce(lambda x,y:x+y,l))
     #print('数列的内容为：',l)
    # print('数列的前20项和:',sum1)
     print('+'.join(str(i) for i in l),end='\n')#学会使用.join的用法
