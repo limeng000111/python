@@ -30,10 +30,10 @@ def permutation():
 #permutation()
 
 #用*打印菱形,分为上下两部分
-from sys import stdout
-def daimond():
+from sys import stdout#找出sys与os的作用
+def daimond():#菱形
     for i in range(4):
-        for j in range(2-i+1):
+        for j in range(2-i+1):#公式需要留意
             stdout.write(' ')
         for k in range(2*i+1):
             stdout.write('*')
