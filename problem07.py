@@ -17,4 +17,14 @@ def age(n):
         return 10
     else:
         return age(n-1)+2
-print(age(5))
+# print(age(5))
+
+#5位数--类似12321，称为回数，求出这些值
+def reserve_same():
+    res = str(input('请输入数字'))
+    for i in range(len(res)//2):
+        if res[i] != res[-i-1]:
+            print('输入的值不是回数')
+            break
+    print('%s是回数!'%res)
+reserve_same()
