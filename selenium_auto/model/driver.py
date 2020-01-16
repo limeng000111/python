@@ -11,17 +11,16 @@ file = r'C:\Users\dell\PycharmProjects\selenium_auto\model\bizpal.ini'
 con.read(file,encoding='utf-8')
 def browser():
     driver = webdriver.Chrome('C:\Program Files (x86)\Google\Chrome\Application\chromedriver.exe')
+    # driver.maximize_window()
     # driver.get('https://www.demobizpal.com/partner/home')
-    url = con.get('manager', 'url')
-    driver.get(url)
-    time.sleep(5)
-    # return driver
+    # url = con.get('manager', 'url')
+    # driver.get(url)
+    # time.sleep(5)
+    return driver
+    # driver.get('https://www.demobizpal.com/partner/home')
 
-# if __name__ == '__main__':
-#     url = con.get('manager','url')
-#     # print(url)
-# d = browser()
-# d.get(url)
-    # time.sleep(3)
-    # d.quit()
+if __name__ == '__main__':
+    d = browser()
+    d.get('https://www.demobizpal.com/partner/home')
+    d.quit()
 
