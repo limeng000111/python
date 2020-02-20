@@ -75,6 +75,20 @@ def equal_str():
 ■ 例如: ‘spring’ 返回 ‘spng’， ‘is’ 返回 'is’
 ■ 当输入的字符串长度小于2时，返回空字符串
 '''
+def head_tail_word():
+    str_input = input('请输入字符串:')
+    longth = len(str_input)
+    if longth > 2:
+        res = str_input[:2]+str_input[-2:]
+    elif longth == 2:
+        res = str_input
+    else:
+        res= ''
+    print(res)
+#head_tail_word()
+
+
+
 
 
 
