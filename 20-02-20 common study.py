@@ -93,7 +93,7 @@ def head_tail_word():
 from selenium import webdriver
 import time
 import base64
-from PIL import Image
+#from PIL import Image
 from io import BytesIO
 from selenium.webdriver.support.ui import WebDriverWait
 import random
