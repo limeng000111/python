@@ -33,11 +33,11 @@
 
 from time import sleep
 import unittest, random, sys
-from model import setup
-from page_obj.loginPage import login
-from model.screenshot import get_screenshot
+from selenium_auto.model import setup
+from selenium_auto.page_obj.loginPage import login
+from selenium_auto.model.screenshot import get_screenshot
 import time
-from model import HTMLTestRunner
+from selenium_auto.model import HTMLTestRunner
 
 
 class loginTest(setup.MyTest):

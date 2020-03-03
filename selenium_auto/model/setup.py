@@ -1,4 +1,4 @@
-from model.driver import browser
+from selenium_auto.model.driver import browser
 import unittest
 from selenium import webdriver
 import time
