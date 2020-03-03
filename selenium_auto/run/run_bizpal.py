@@ -1,5 +1,6 @@
 import unittest
-from model import HTMLTestRunner
+#from model import HTMLTestRunner
+from selenium_auto.model import HTMLTestRunner
 def all_case():
     #执行测试用例的目录
     casedir = r'C:\Users\dell\PycharmProjects\selenium_auto\test_case'
