@@ -1,0 +1,851 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ad596ae3-8998-47e3-b941-29ad646e09d2" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/auto_api/testcase/login.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="294" column="8" selection-start-line="294" selection-start-column="8" selection-end-line="294" selection-end-column="8" />
+              <folding>
+                <element signature="e#50#61#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/songqin/test_email.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#14#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test_case/test_login.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://D:/www/test-for-life/test-for-life/problem06.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://D:/www/testgit/test-for-life/problem07.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="475">
+              <caret line="25" column="31" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/auto_api/log/log.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="51" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/auto_api/tools/send_email.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1254">
+              <caret line="71" column="20" selection-start-line="71" selection-start-column="20" selection-end-line="71" selection-end-column="20" />
+              <folding>
+                <element signature="e#0#14#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/auto_api/log/result/test.log">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="437">
+              <caret line="23" column="13386" selection-start-line="23" selection-start-column="13386" selection-end-line="23" selection-end-column="13386" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/auto_api/mysql/db_config.ini">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="16" column="11" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/auto_api/mysql/mysql_db.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>sys.stderr</find>
+      <find>test_sign_in</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/test_case/test_login.py" />
+        <option value="$PROJECT_DIR$/testFile/config.ini" />
+        <option value="$PROJECT_DIR$/testFile/readConfig.py" />
+        <option value="$PROJECT_DIR$/common/Log.py" />
+        <option value="$PROJECT_DIR$/common/configHTTP.py" />
+        <option value="$PROJECT_DIR$/songqin/days002.py" />
+        <option value="$PROJECT_DIR$/songqin/days001.py" />
+        <option value="$PROJECT_DIR$/songqin/days003.py" />
+        <option value="$PROJECT_DIR$/songqin/days004.py" />
+        <option value="$PROJECT_DIR$/logs/logger.py" />
+        <option value="$PROJECT_DIR$/Sherbet/logger.py" />
+        <option value="$PROJECT_DIR$/Sherbet/test_unnitest.py" />
+        <option value="$PROJECT_DIR$/Sherbet/test_unittest.py" />
+        <option value="$PROJECT_DIR$/Sherbet/test_bs4.py" />
+        <option value="$PROJECT_DIR$/Sherbet/auto_excel.py" />
+        <option value="$PROJECT_DIR$/Sherbet/fenzhuang.py" />
+        <option value="$PROJECT_DIR$/Sherbet/test_method.py" />
+        <option value="$PROJECT_DIR$/Sherbet/handle_excel.py" />
+        <option value="$PROJECT_DIR$/Sherbet/run_hanadle_excel.py" />
+        <option value="$PROJECT_DIR$/songqin/douban.py" />
+        <option value="$PROJECT_DIR$/songqin/test.py" />
+        <option value="$PROJECT_DIR$/songqin/CGI.html" />
+        <option value="D:/LIMENG/test.py" />
+        <option value="$PROJECT_DIR$/songqin/test_Mysql.py" />
+        <option value="$PROJECT_DIR$/songqin/test_client.py" />
+        <option value="$PROJECT_DIR$/songqin/test_socket.py" />
+        <option value="$PROJECT_DIR$/songqin/test_email.py" />
+        <option value="$PROJECT_DIR$/songqin/test_thread.py" />
+        <option value="$PROJECT_DIR$/Sherbet/HTMLTestRunner.py" />
+        <option value="$PROJECT_DIR$/songqin/test_unittest.py" />
+        <option value="$PROJECT_DIR$/songqin/test_appium.py" />
+        <option value="$PROJECT_DIR$/auto_api/log/log.py" />
+        <option value="$PROJECT_DIR$/auto_api/mysql/mysql_db.py" />
+        <option value="$PROJECT_DIR$/auto_api/testcase/test_login.py" />
+        <option value="$PROJECT_DIR$/auto_api/mysql/db_config.ini" />
+        <option value="$PROJECT_DIR$/auto_api/tools/send_email.py" />
+        <option value="$PROJECT_DIR$/songqin/yaml.yaml" />
+        <option value="$PROJECT_DIR$/songqin/Informal essay.py" />
+        <option value="$PROJECT_DIR$/auto_api/test.py" />
+        <option value="D:/www/test-for-life/test-for-life/problem06.py" />
+        <option value="D:/www/testgit/test-for-life/problem07.py" />
+        <option value="$PROJECT_DIR$/auto_api/log/result/test.log" />
+        <option value="$PROJECT_DIR$/auto_api/testcase/login.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="6" />
+    <option name="y" value="47" />
+    <option name="width" value="1943" />
+    <option name="height" value="1103" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="auto-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="auto-api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="auto-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="auto-api" type="462c0819:PsiDirectoryNode" />
+              <item name="auto_api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="auto-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="auto-api" type="462c0819:PsiDirectoryNode" />
+              <item name="auto_api" type="462c0819:PsiDirectoryNode" />
+              <item name="log" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="auto-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="auto-api" type="462c0819:PsiDirectoryNode" />
+              <item name="auto_api" type="462c0819:PsiDirectoryNode" />
+              <item name="mysql" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="auto-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="auto-api" type="462c0819:PsiDirectoryNode" />
+              <item name="auto_api" type="462c0819:PsiDirectoryNode" />
+              <item name="report" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="auto-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="auto-api" type="462c0819:PsiDirectoryNode" />
+              <item name="auto_api" type="462c0819:PsiDirectoryNode" />
+              <item name="testcase" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="auto-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="auto-api" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="auto-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="auto-api" type="462c0819:PsiDirectoryNode" />
+              <item name="report" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="auto-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="auto-api" type="462c0819:PsiDirectoryNode" />
+              <item name="Sherbet" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="auto-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="auto-api" type="462c0819:PsiDirectoryNode" />
+              <item name="songqin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="auto-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="auto-api" type="462c0819:PsiDirectoryNode" />
+              <item name="test_case" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="auto-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="auto-api" type="462c0819:PsiDirectoryNode" />
+              <item name="testFile" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/auto_api/testcase/login.py" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="auto-api" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="auto-api" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests in login.py">
+    <configuration name="auto_api" type="PythonConfigurationType" factoryName="Python">
+      <module name="auto-api" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\dell\PycharmProjects\auto-api\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Sherbet" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sherbet/test_unittest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="problem07" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="auto-api" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="D:/www/testgit/test-for-life" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:/www/testgit/test-for-life/problem07.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python">
+      <module name="auto-api" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\dell\PycharmProjects\auto-api\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/auto_api/testcase" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\dell\PycharmProjects\auto-api\auto_api\testcase\login.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for login.Test_Login.test_email_sign_in" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="auto-api" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/auto_api/testcase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;login.Test_Login.test_email_sign_in&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for login.Test_Login.test_sign_in" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="auto-api" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/auto_api/testcase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;login.Test_Login.test_sign_in&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for login.Test_friends.test_get_friends" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="auto-api" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/auto_api/testcase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;login.Test_friends.test_get_friends&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in login.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="auto-api" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/auto_api/testcase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_pattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/auto_api/testcase/login.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.auto_api" />
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.problem07" />
+      <item itemvalue="Python tests.Unittests in login.py" />
+      <item itemvalue="Python tests.Unittests for login.Test_Login.test_sign_in" />
+      <item itemvalue="Python tests.Unittests for login.Test_Login.test_email_sign_in" />
+      <item itemvalue="Python tests.Unittests for login.Test_friends.test_get_friends" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests in login.py" />
+        <item itemvalue="Python tests.Unittests for login.Test_friends.test_get_friends" />
+        <item itemvalue="Python tests.Unittests for login.Test_Login.test_email_sign_in" />
+        <item itemvalue="Python tests.Unittests for login.Test_Login.test_sign_in" />
+        <item itemvalue="Python.problem07" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ad596ae3-8998-47e3-b941-29ad646e09d2" name="Default Changelist" comment="" />
+      <created>1569552754347</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569552754347</updated>
+      <workItem from="1569552791389" duration="5197000" />
+      <workItem from="1569719312120" duration="9196000" />
+      <workItem from="1569805492312" duration="11403000" />
+      <workItem from="1570496775154" duration="188000" />
+      <workItem from="1570516972239" duration="1948000" />
+      <workItem from="1570588896423" duration="161000" />
+      <workItem from="1571034835699" duration="50000" />
+      <workItem from="1571733103589" duration="1883000" />
+      <workItem from="1571793326009" duration="600000" />
+      <workItem from="1572227642126" duration="12380000" />
+      <workItem from="1572259251227" duration="68000" />
+      <workItem from="1572310708205" duration="6211000" />
+      <workItem from="1572327533388" duration="12526000" />
+      <workItem from="1572397597170" duration="12581000" />
+      <workItem from="1572485028989" duration="1206000" />
+      <workItem from="1573021838922" duration="685000" />
+      <workItem from="1573609320366" duration="13015000" />
+      <workItem from="1573698490895" duration="8426000" />
+      <workItem from="1573780236033" duration="9863000" />
+      <workItem from="1574039505527" duration="39000" />
+      <workItem from="1574056377451" duration="221000" />
+      <workItem from="1574329714931" duration="58000" />
+      <workItem from="1574817059304" duration="1351000" />
+      <workItem from="1574819095356" duration="1593000" />
+      <workItem from="1574820724778" duration="39000" />
+      <workItem from="1574820786406" duration="7758000" />
+      <workItem from="1574839272481" duration="509000" />
+      <workItem from="1574907212125" duration="1341000" />
+      <workItem from="1574926468986" duration="4296000" />
+      <workItem from="1575012504213" duration="31000" />
+      <workItem from="1575253305048" duration="13443000" />
+      <workItem from="1575334157153" duration="18418000" />
+      <workItem from="1575421946548" duration="1208000" />
+      <workItem from="1575958726664" duration="4032000" />
+      <workItem from="1576034161475" duration="14810000" />
+      <workItem from="1576112820130" duration="8403000" />
+      <workItem from="1576198966892" duration="10116000" />
+      <workItem from="1576462026997" duration="8547000" />
+      <workItem from="1576546713514" duration="284000" />
+      <workItem from="1576662892727" duration="154000" />
+      <workItem from="1578894071260" duration="6938000" />
+      <workItem from="1578980228729" duration="6192000" />
+      <workItem from="1579053795347" duration="1368000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_login_py - 2020.01.14 at 15h 18m 40s.xml">
+      <configuration name="Unittests in login.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_login_py - 2020.01.14 at 15h 26m 22s.xml">
+      <configuration name="Unittests in login.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_login_py - 2020.01.14 at 15h 26m 36s.xml">
+      <configuration name="Unittests in login.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_login_py - 2020.01.14 at 15h 26m 55s.xml">
+      <configuration name="Unittests in login.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_login_py - 2020.01.14 at 15h 28m 05s.xml">
+      <configuration name="Unittests in login.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_login_Test_Login_test_email_sign_in - 2020.01.14 at 15h 28m 35s.xml">
+      <configuration name="Unittests for login.Test_Login.test_email_sign_in" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_login_py - 2020.01.14 at 15h 33m 54s.xml">
+      <configuration name="Unittests in login.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_login_py - 2020.01.14 at 15h 34m 23s.xml">
+      <configuration name="Unittests in login.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_login_Test_friends_test_get_friends - 2020.01.14 at 17h 56m 24s.xml">
+      <configuration name="Unittests for login.Test_friends.test_get_friends" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_login_py - 2020.01.14 at 17h 56m 49s.xml">
+      <configuration name="Unittests in login.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="218736000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13605899" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32956153" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.76403743" weight="0.42857143" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49932975" weight="0.43140027" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32956153" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.23596257" side_tool="true" weight="0.4580559" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49932975" weight="0.3026874" />
+      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.49933156" weight="0.35785007" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2774799" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32956153" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.76403743" visible="true" weight="0.35785007" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49932975" weight="0.41584158" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32956153" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.23596257" side_tool="true" weight="0.4580559" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49932975" weight="0.3026874" />
+      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.49933156" weight="0.35785007" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="logger.handlers[0].filters" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/auto_api$Unittests_for_login_Test_Login_test_right_login.coverage" NAME="Unittests for login.Test_Login.test_right_login Coverage Results" MODIFIED="1575266544985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/auto_api/testcase" />
+    <SUITE FILE_PATH="coverage/auto_api$test_unittest.coverage" NAME="test_unittest Coverage Results" MODIFIED="1574907426168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/songqin" />
+    <SUITE FILE_PATH="coverage/auto_api$Unittests_in_test_login_py.coverage" NAME="Unittests in login.py Coverage Results" MODIFIED="1576055811204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/auto_api/testcase" />
+    <SUITE FILE_PATH="coverage/auto_api$Unittests_for_test_unittest_TestMethod_test_002.coverage" NAME="Unittests for test_unittest.TestMethod.test_002 Coverage Results" MODIFIED="1572331339324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sherbet" />
+    <SUITE FILE_PATH="coverage/auto_api$days004.coverage" NAME="days004 Coverage Results" MODIFIED="1572229787566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/songqin" />
+    <SUITE FILE_PATH="coverage/auto_api$test_appium.coverage" NAME="test_appium Coverage Results" MODIFIED="1574931056489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/songqin" />
+    <SUITE FILE_PATH="coverage/auto_api$readConfig.coverage" NAME="readConfig Coverage Results" MODIFIED="1569553861486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testFile" />
+    <SUITE FILE_PATH="coverage/auto_api$logger__1_.coverage" NAME="logger (1) Coverage Results" MODIFIED="1572257260222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sherbet" />
+    <SUITE FILE_PATH="coverage/auto_api$Unittests_for_test_unittest_TestOne_test_001.coverage" NAME="Unittests for test_unittest.TestOne.test_001 Coverage Results" MODIFIED="1572330238645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sherbet" />
+    <SUITE FILE_PATH="coverage/auto_api$test__2_.coverage" NAME="test (2) Coverage Results" MODIFIED="1573702858760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/LIMENG" />
+    <SUITE FILE_PATH="coverage/auto_api$days002.coverage" NAME="days002 Coverage Results" MODIFIED="1570518331219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/songqin" />
+    <SUITE FILE_PATH="coverage/auto_api$Unittests_for_login_Test_friends_test_get_friends.coverage" NAME="Unittests for login.Test_friends.test_get_friends Coverage Results" MODIFIED="1578995771948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/auto_api/testcase" />
+    <SUITE FILE_PATH="coverage/auto_api$test_client.coverage" NAME="test_client Coverage Results" MODIFIED="1573803824201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/songqin" />
+    <SUITE FILE_PATH="coverage/auto_api$Unittests_in_login_py.coverage" NAME="Unittests in login.py Coverage Results" MODIFIED="1578995791761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/auto_api/testcase" />
+    <SUITE FILE_PATH="coverage/auto_api$problem07.coverage" NAME="problem07 Coverage Results" MODIFIED="1578981696794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/www/testgit/test-for-life" />
+    <SUITE FILE_PATH="coverage/auto_api$Informal_essay.coverage" NAME="Informal essay Coverage Results" MODIFIED="1576546730669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/songqin" />
+    <SUITE FILE_PATH="coverage/auto_api$run_hanadle_excel.coverage" NAME="run_hanadle_excel Coverage Results" MODIFIED="1573026785092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sherbet" />
+    <SUITE FILE_PATH="coverage/auto_api$mysql_db.coverage" NAME="mysql_db Coverage Results" MODIFIED="1575257860319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/auto_api/mysql" />
+    <SUITE FILE_PATH="coverage/auto_api$test_Mysql.coverage" NAME="test_Mysql Coverage Results" MODIFIED="1573780623366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/songqin" />
+    <SUITE FILE_PATH="coverage/auto_api$HTMLTestRunner.coverage" NAME="HTMLTestRunner Coverage Results" MODIFIED="1572334951466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sherbet" />
+    <SUITE FILE_PATH="coverage/auto_api$Unittests_for_login_Test_Login_test_Perfect_information.coverage" NAME="Unittests for login.Test_Login.test_Perfect_information Coverage Results" MODIFIED="1578912241102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/auto_api/testcase" />
+    <SUITE FILE_PATH="coverage/auto_api$Unittests_for_login_Test_Login_test_email_sign_in.coverage" NAME="Unittests for login.Test_Login.test_email_sign_in Coverage Results" MODIFIED="1578986911265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/auto_api/testcase" />
+    <SUITE FILE_PATH="coverage/auto_api$douban.coverage" NAME="douban Coverage Results" MODIFIED="1573627807101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/songqin" />
+    <SUITE FILE_PATH="coverage/auto_api$test_socket.coverage" NAME="test_socket Coverage Results" MODIFIED="1573803815275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/songqin" />
+    <SUITE FILE_PATH="coverage/auto_api$days003.coverage" NAME="days003 Coverage Results" MODIFIED="1571734400494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/songqin" />
+    <SUITE FILE_PATH="coverage/auto_api$send_email.coverage" NAME="send_email Coverage Results" MODIFIED="1576056748367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/auto_api/tools" />
+    <SUITE FILE_PATH="coverage/auto_api$Unittests_for_test_unittest_TestOne.coverage" NAME="Unittests for test_unittest.TestOne Coverage Results" MODIFIED="1572330254027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sherbet" />
+    <SUITE FILE_PATH="coverage/auto_api$handle_excel.coverage" NAME="handle_excel Coverage Results" MODIFIED="1572400223917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sherbet" />
+    <SUITE FILE_PATH="coverage/auto_api$logger.coverage" NAME="logger Coverage Results" MODIFIED="1572254006682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/logs" />
+    <SUITE FILE_PATH="coverage/auto_api$Unittests_for_test_unittest_Test_one_test_001.coverage" NAME="Unittests for test_unittest.Test_one.test_001 Coverage Results" MODIFIED="1572257992011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sherbet" />
+    <SUITE FILE_PATH="coverage/auto_api$log.coverage" NAME="log Coverage Results" MODIFIED="1575256171847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/auto_api/log" />
+    <SUITE FILE_PATH="coverage/auto_api$Unittests_for_login_Test_Login_test_sign_in.coverage" NAME="Unittests for login.Test_Login.test_sign_in Coverage Results" MODIFIED="1578986244650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/auto_api/testcase" />
+    <SUITE FILE_PATH="coverage/auto_api$Unittests_for_test_unittest_TestMethod.coverage" NAME="Unittests for test_unittest.TestMethod Coverage Results" MODIFIED="1572342338238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sherbet" />
+    <SUITE FILE_PATH="coverage/auto_api$test_method.coverage" NAME="test_method Coverage Results" MODIFIED="1572404017129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sherbet" />
+    <SUITE FILE_PATH="coverage/auto_api$Unittests_for_test_unittest_TestMethod_test_001.coverage" NAME="Unittests for test_unittest.TestMethod.test_001 Coverage Results" MODIFIED="1572334972411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sherbet" />
+    <SUITE FILE_PATH="coverage/auto_api$test_thread.coverage" NAME="test_thread Coverage Results" MODIFIED="1573807386937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/songqin" />
+    <SUITE FILE_PATH="coverage/auto_api$Unittests_for_login_Test_Login.coverage" NAME="Unittests for login.Test_Login Coverage Results" MODIFIED="1578902212889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/auto_api/testcase" />
+    <SUITE FILE_PATH="coverage/auto_api$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1578912719798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/auto_api" />
+    <SUITE FILE_PATH="coverage/auto_api$problem06.coverage" NAME="problem06 Coverage Results" MODIFIED="1578921671048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/www/test-for-life/test-for-life" />
+    <SUITE FILE_PATH="coverage/auto_api$auto_excel.coverage" NAME="auto_excel Coverage Results" MODIFIED="1572398781581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sherbet" />
+    <SUITE FILE_PATH="coverage/auto_api$Unittests_for_test_unittest_TestOne_test_002.coverage" NAME="Unittests for test_unittest.TestOne.test_002 Coverage Results" MODIFIED="1572329176188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sherbet" />
+    <SUITE FILE_PATH="coverage/auto_api$test_email.coverage" NAME="test_email Coverage Results" MODIFIED="1573803516545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/songqin" />
+    <SUITE FILE_PATH="coverage/auto_api$test.coverage" NAME="test Coverage Results" MODIFIED="1576546771879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/auto_api/testcase" />
+    <SUITE FILE_PATH="coverage/auto_api$Unittests_for_login_Test_first_page_test_friends_forward.coverage" NAME="Unittests for login.Test_first_page.test_friends_forward Coverage Results" MODIFIED="1578894090218" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/auto_api/testcase" />
+    <SUITE FILE_PATH="coverage/auto_api$days001.coverage" NAME="days001 Coverage Results" MODIFIED="1569827167550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/songqin" />
+    <SUITE FILE_PATH="coverage/auto_api$fenzhuang.coverage" NAME="fenzhuang Coverage Results" MODIFIED="1572402191416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sherbet" />
+    <SUITE FILE_PATH="coverage/auto_api$Unittests_in_test_unittest_py.coverage" NAME="Unittests in test_unittest.py Coverage Results" MODIFIED="1572332470174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sherbet" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/auto_api/report/2019-12-03 14_46_34_testresult.html" />
+    <entry file="file://$PROJECT_DIR$/auto_api/report/2019-12-03 14_47_23_testresult.html" />
+    <entry file="file://$PROJECT_DIR$/auto_api/report/2019-12-03 14_48_42_testresult.html" />
+    <entry file="file://$PROJECT_DIR$/auto_api/report/2019-12-03 14_54_54_testresult.html" />
+    <entry file="file://$PROJECT_DIR$/auto_api/report/2019-12-03 15_08_54_testresult.html" />
+    <entry file="file://$PROJECT_DIR$/auto_api/report/2019-12-03 14_06_38_testresult.html" />
+    <entry file="file://$PROJECT_DIR$/auto_api/report/2019-12-10 14_21_14_testresult.html" />
+    <entry file="file://$PROJECT_DIR$/auto_api/report/2019-12-10 14_32_42_testresult.html" />
+    <entry file="file://$PROJECT_DIR$/auto_api/report/2019-12-10 14_36_34_testresult.html" />
+    <entry file="file://$PROJECT_DIR$/auto_api/report/2019-12-10 14_51_12_testresult.html" />
+    <entry file="file://$PROJECT_DIR$/auto_api/report/2019-12-10 14_52_13_testresult.html" />
+    <entry file="file://$PROJECT_DIR$/auto_api/report/2019-12-10 14_52_38_testresult.html" />
+    <entry file="file://$PROJECT_DIR$/auto_api/report/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auto_api/report/2019-12-11 14_15_36_testresult.html" />
+    <entry file="file://$PROJECT_DIR$/auto_api/report/2019-12-11 14_18_16_testresult.html" />
+    <entry file="file://$PROJECT_DIR$/auto_api/report/2019-12-11 14_20_55_testresult.html" />
+    <entry file="file://$PROJECT_DIR$/auto_api/report/2019-12-11 14_21_52_testresult.html" />
+    <entry file="file://$PROJECT_DIR$/auto_api/report/2019-12-11 14_22_42_testresult.html" />
+    <entry file="file://$PROJECT_DIR$/auto_api/report/2019-12-11 14_30_24_testresult.html" />
+    <entry file="file://$PROJECT_DIR$/auto_api/report/2019-12-11 14_31_57_testresult.html" />
+    <entry file="file://$PROJECT_DIR$/auto_api/report/2019-12-11 14_37_00_testresult.html" />
+    <entry file="file://$PROJECT_DIR$/auto_api/report/2019-12-11 14_41_20_testresult.html" />
+    <entry file="file://$PROJECT_DIR$/auto_api/report/2019-12-11 14_42_31_testresult.html" />
+    <entry file="file://$PROJECT_DIR$/auto_api/report/2019-12-11 14_43_09_testresult.html" />
+    <entry file="file://$PROJECT_DIR$/auto_api/report/2019-12-11 15_17_24_testresult.html" />
+    <entry file="file://$PROJECT_DIR$/auto_api/report/2019-12-11 15_21_07_testresult.html" />
+    <entry file="file://$PROJECT_DIR$/auto_api/report/2019-12-11 17_43_36_testresult.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auto_api/report/2019-12-12 09_19_08_testresult.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auto_api/report/2019-12-12 10_20_21_testresult.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auto_api/report/2019-12-12 10_23_56_testresult.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auto_api/report/2019-12-12 10_32_36_testresult.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auto_api/report/2019-12-12 11_07_26_testresult.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auto_api/report/2019-12-12 10_39_25_testresult.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auto_api/report/2019-12-12 10_34_46_testresult.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/songqin/yaml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auto_api/report/2019-12-12 17_19_08_testresult.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auto_api/report/2019-12-16 13_51_12_testresult.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auto_api/report/2019-12-17 09_39_46_testresult.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/songqin/yaml.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/songqin/Informal essay.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1995">
+          <caret line="109" column="9" selection-start-line="109" selection-start-column="9" selection-end-line="109" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auto_api/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auto_api/testcase/login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="294" column="8" selection-start-line="294" selection-start-column="8" selection-end-line="294" selection-end-column="8" />
+          <folding>
+            <element signature="e#50#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/songqin/test_email.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_case/test_login.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/www/test-for-life/test-for-life/problem06.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/www/testgit/test-for-life/problem07.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" column="31" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auto_api/log/log.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="51" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auto_api/tools/send_email.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1254">
+          <caret line="71" column="20" selection-start-line="71" selection-start-column="20" selection-end-line="71" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auto_api/log/result/test.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="13386" selection-start-line="23" selection-start-column="13386" selection-end-line="23" selection-end-column="13386" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auto_api/mysql/db_config.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="11" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auto_api/mysql/mysql_db.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
